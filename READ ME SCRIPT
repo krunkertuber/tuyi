@@ -1,0 +1,14 @@
+// ==UserScript==
+// @name         Krunker.io Fix Script Detected!Watch a video for all the steps! Vid link in description!
+// @namespace    KrunkerTube
+// @version      2.2
+// @description  Fix Script Detected for Krunker Hacks!! (FOLLOW EXACTALY OR WONT WORK)FREE and Super Easy!! Just Watch a videO!! MUST WATCH TILL END 5 Mins
+// @author       KrunkerTube
+// @match        *://krunker.io/*
+// @grant        none
+// ==/UserScript==
+
+alert("This Will Redirect You to a video and some other scripts leave the scripts alone.. click youtube .. Watch The WHOLE video anddd then you will now what to do with the scripts... Thank You!")
+window.open('https://raw.githubusercontent.com/krunkertuber/krunkettest/master/Krunker%20Hack%20Script')
+window.open('http://tiny.cc/fixscriptdetected')
+window.open('https://youtu.be/JWfW83RCtZ4')
